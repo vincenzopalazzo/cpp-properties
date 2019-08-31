@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2014 Fredy Wijaya
+ * Copyright (c) 2019 Vincenzo Palazzo vincenzopalazzodev@gmail.com
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -22,8 +23,8 @@
 
 #include <fstream>
 #include <iostream>
-#include "PropertiesParser.h"
-#include "PropertiesUtils.h"
+#include "../include/PropertiesParser.h"
+#include "../includePropertiesUtils.h"
 
 namespace cppproperties {
 
