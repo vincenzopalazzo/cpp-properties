@@ -24,7 +24,7 @@
 #include <fstream>
 #include <iostream>
 #include "../include/PropertiesParser.h"
-#include "../includePropertiesUtils.h"
+#include "../include/PropertiesUtils.h"
 
 namespace cppproperties {
 
